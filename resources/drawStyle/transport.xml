@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<mapDrawStyle displayName="Transport" id="transport">
+    <standard>
+        <buildings>
+            <element type="BUILDING_YES" bodyHex="F0EEF0" zoomLevel="1" isArea="yes"/>
+            <element type="BUILDING_APARTMENTS" borderHex="d8d6d8" bodyHex="F0EEF0" zoomLevel="1" isArea="yes"/>
+            <element type="BUILDING_FARM" borderHex="d8d6d8" bodyHex="F0EEF0" zoomLevel="1" isArea="yes"/>
+            <element type="BUILDING_HOTEL" borderHex="d8d6d8" bodyHex="F0EEF0" zoomLevel="1" isArea="yes"/>
+            <element type="BUILDING_RESIDENTIAL" borderHex="d8d6d8" bodyHex="F0EEF0" zoomLevel="1" isArea="yes"/>
+            <element type="BUILDING_HOUSE" borderHex="d8d6d8" bodyHex="F0EEF0" zoomLevel="1" isArea="yes"/>
+            <element type="BUILDING_DETACHED" borderHex="d8d6d8" bodyHex="F0EEF0" zoomLevel="1" isArea="yes"/>
+            <element type="BUILDING_DORMITORY" borderHex="d8d6d8" bodyHex="F0EEF0" zoomLevel="1" isArea="yes"/>
+            <element type="BUILDING_TERRACE" borderHex="d8d6d8" bodyHex="F0EEF0" zoomLevel="1" isArea="yes"/>
+            <element type="BUILDING_HOUSEBOAT" borderHex="d8d6d8" bodyHex="F0EEF0" zoomLevel="1" isArea="yes"/>
+            <element type="BUILDING_BUNGALOW" borderHex="d8d6d8" bodyHex="F0EEF0" zoomLevel="1" isArea="yes"/>
+            <element type="BUILDING_STATIC_CARAVAN" borderHex="d8d6d8" bodyHex="F0EEF0" zoomLevel="1" isArea="yes"/>
+            <element type="BUILDING_COMMERCIAL" borderHex="d8d6d8" bodyHex="F0EEF0" zoomLevel="1" isArea="yes"/>
+            <element type="BUILDING_INDUSTRIAL" borderHex="d8d6d8" bodyHex="F0EEF0" zoomLevel="1" isArea="yes"/>
+            <element type="BUILDING_RETAIL" borderHex="d8d6d8" bodyHex="F0EEF0" zoomLevel="1" isArea="yes"/>
+            <element type="BUILDING_WAREHOUSE" borderHex="d8d6d8" bodyHex="F0EEF0" zoomLevel="1" isArea="yes"/>
+            <element type="BUILDING_BAKEHOUSE" borderHex="d8d6d8" bodyHex="F0EEF0" zoomLevel="1" isArea="yes"/>
+            <element type="BUILDING_CATHEDRAL" borderHex="d8d6d8" bodyHex="F0EEF0" zoomLevel="1" isArea="yes"/>
+            <element type="BUILDING_CHAPEL" borderHex="d8d6d8" bodyHex="F0EEF0" zoomLevel="1" isArea="yes"/>
+            <element type="BUILDING_CHURCH" borderHex="d8d6d8" bodyHex="F0EEF0" zoomLevel="1" isArea="yes"/>
+            <element type="BUILDING_MOSQUE" borderHex="d8d6d8" bodyHex="F0EEF0" zoomLevel="1" isArea="yes"/>
+            <element type="BUILDING_TEMPLE" borderHex="d8d6d8" bodyHex="F0EEF0" zoomLevel="1" isArea="yes"/>
+            <element type="BUILDING_SCHOOL" borderHex="d8d6d8" bodyHex="F0EEF0" zoomLevel="1" isArea="yes"/>
+            <element type="BUILDING_SYNAGOGUE" borderHex="d8d6d8" bodyHex="F0EEF0" zoomLevel="1" isArea="yes"/>
+            <element type="BUILDING_SHRINE" borderHex="d8d6d8" bodyHex="F0EEF0" zoomLevel="1" isArea="yes"/>
+            <element type="BUILDING_CIVIC" borderHex="d8d6d8" bodyHex="F0EEF0" zoomLevel="1" isArea="yes"/>
+            <element type="BUILDING_HOSPITAL" borderHex="d8d6d8" bodyHex="F0EEF0" zoomLevel="1" isArea="yes"/>
+            <element type="BUILDING_OFFICE" borderHex="d8d6d8" bodyHex="F0EEF0" zoomLevel="1" isArea="yes"/>
+            <element type="BUILDING_CONSTRUCTION" borderHex="d8d6d8" bodyHex="F0EEF0" zoomLevel="1" isArea="yes"/>
+            <element type="BUILDING_TRAIN_STATION" borderHex="d8d6d8" bodyHex="F0EEF0" zoomLevel="2" isArea="yes"/>
+        </buildings>
+        <roads>
+            <element type="HIGHWAY_UNCLASSIFIED" zoomLevel="2" bodyHex="C5C5C5" lineType="round" lineWeight="20"/>
+            <element type="HIGHWAY_PATH" zoomLevel="2" bodyHex="C5C5C5" lineType="round" lineWeight="30"/>
+            <element type="ROUTE_FERRY" zoomLevel="7" bodyHex="C5C5C5" lineType="round" lineWeight="8"/>
+            <element type="HIGHWAY_CYCLEWAY" zoomLevel="2" bodyHex="C5C5C5"  lineType="round" lineWeight="8"/>
+            <element type="HIGHWAY_PEDESTRIAN" zoomLevel="2" bodyHex="C5C5C5" lineType="round" lineWeight="25"/>
+            <element type="HIGHWAY_PEDESTRIAN_AREA" zoomLevel="2" bodyHex="C5C5C5" isArea="yes" lineType="default"/>
+            <element type="HIGHWAY_SERVICE" zoomLevel="2" bodyHex="C5C5C5" lineType="round" lineWeight="35"/>
+            <element type="HIGHWAY_STEPS" zoomLevel="2" bodyHex="C5C5C5" lineType="round" lineWeight="6"/>
+            <element type="HIGHWAY_FOOTWAY" zoomLevel="2" bodyHex="C5C5C5" lineType="round" lineWeight="6"/>
+            <element type="HIGHWAY_LIVING_STREET" zoomLevel="4" bodyHex="C5C5C5" lineType="round" lineWeight="35"/>
+            <element type="HIGHWAY_RESIDENTIAL" zoomLevel="4" bodyHex="C5C5C5" lineType="round" lineWeight="80"/>
+            <element type="HIGHWAY_RACEWAY" zoomLevel="3" bodyHex="C5C5C5" lineType="round" lineWeight="80"/>
+            <element type="HIGHWAY_PRIMARY" zoomLevel="6" bodyHex="EE6666" lineType="round" lineWeight="200"/>
+            <element type="HIGHWAY_PRIMARY_LINK" zoomLevel="5" bodyHex="EE6666" lineType="round" lineWeight="150"/>
+            <element type="HIGHWAY_MOTORWAY" zoomLevel="6" bodyHex="EE6666" lineType="round" lineWeight="200"/>
+            <element type="HIGHWAY_MOTORWAY_LINK" zoomLevel="5" bodyHex="EE6666" lineType="round" lineWeight="150"/>
+            <element type="HIGHWAY_TRUNK" zoomLevel="5" bodyHex="EE6666" lineType="round" lineWeight="200"/>
+            <element type="HIGHWAY_TRUNK_LINK" zoomLevel="5" bodyHex="EE6666" lineType="round" lineWeight="150"/>
+            <element type="HIGHWAY_SECONDARY" zoomLevel="5" bodyHex="b0b0b0" lineType="round" lineWeight="200"/>
+            <element type="HIGHWAY_SECONDARY_LINK" zoomLevel="4" bodyHex="b0b0b0" lineType="round" lineWeight="150"/>
+            <element type="HIGHWAY_TERTIARY" zoomLevel="4" bodyHex="b0b0b0" lineType="round" lineWeight="150"/>
+            <element type="HIGHWAY_TERTIARY_LINK" zoomLevel="4" bodyHex="b0b0b0" lineType="round" lineWeight="100"/>
+            <element type="HIGHWAY_TRACK" zoomLevel="3" bodyHex="C5C5C5" lineType="round" lineWeight="15"/>
+            <element type="HIGHWAY_ROAD" zoomLevel="3" bodyHex="C5C5C5"/>
+        </roads>
+        <railway>
+            <element type="RAILWAY_SUBWAY" zoomLevel="4" bodyHex="708090" lineType="round" lineWeight="6"/>
+            <element type="RAILWAY_CONSTRUCTION" zoomLevel="4" bodyHex="708090" lineType="round" lineWeight="6"/>
+            <element type="RAILWAY_DISUSED" zoomLevel="4" bodyHex="708090" lineType="round" lineWeight="6"/>
+            <element type="RAILWAY_RAIL" zoomLevel="8" bodyHex="708090" lineType="round" lineWeight="6"/>
+            <element type="RAILWAY_LIGHT_RAIL" zoomLevel="5" bodyHex="708090" lineType="round" lineWeight="6"/>
+            <element type="RAILWAY_PLATFORM" zoomLevel="5" bodyHex="A4A4A4" isArea="yes"/>
+        </railway>
+        <aeroway>
+            <element type="AEROWAY_RUNWAY" zoomLevel="6" bodyHex="BBBBCC" lineType="round" lineWeight="150"/>
+            <element type="AEROWAY_TAXIWAY" zoomLevel="6" bodyHex="BBBBCC" lineType="round" lineWeight="100"/>
+            <element type="AEROWAY_APRON" zoomLevel="6" bodyHex="E9D1FF" isArea="yes"/>
+        </aeroway>
+        <manmade>
+            <element type="MAN_MADE_BRIDGE" zoomLevel="4" bodyHex="F0EEF0" isArea="yes"/>
+            <element type="MAN_MADE_PIER" zoomLevel="4" bodyHex="F0EEF0"/>
+            <element type="MAN_MADE_BREAKWATER" zoomLevel="4" bodyHex="F0EEF0"/>
+        </manmade>
+        <landuse>
+            <element type="LANDUSE_FOREST" zoomLevel="7" bodyHex="D2F2D7" isArea="yes"/>
+            <element type="LANDUSE_GRASS" zoomLevel="5" bodyHex="D2F2D7" isArea="yes"/>
+            <element type="LANDUSE_GREENFIELD" zoomLevel="6" bodyHex="D2F2D7" isArea="yes"/>
+            <element type="LANDUSE_RAILWAY" zoomLevel="5" bodyHex="E6D1E3" isArea="yes"/>
+            <element type="LANDUSE_RESERVOIR" zoomLevel="5" bodyHex="B4D0D0" isArea="yes"/>
+        </landuse>
+        <sport>
+        </sport>
+        <leisure>
+            <element type="LEISURE_COMMON" zoomLevel="4" bodyHex="CDEBB0" isArea="yes"/>
+            <element type="LEISURE_DOG_PARK" zoomLevel="3" bodyHex="D2F2D7" isArea="yes"/>
+            <element type="LEISURE_GARDEN" zoomLevel="3" bodyHex="D2F2D7" isArea="yes"/>
+            <element type="LEISURE_GOLF_COURSE" zoomLevel="4" bodyHex="D2F2D7" isArea="yes"/>
+            <element type="LEISURE_PARK" zoomLevel="4" bodyHex="D2F2D7" isArea="yes"/>
+            <element type="LEISURE_SWIMMING_POOL" zoomLevel="3" bodyHex="B4D0D0" isArea="yes"/>
+            <element type="LEISURE_SPORTS_CENTRE" zoomLevel="3" bodyHex="F0F0D8" isArea="yes"/>
+            <element type="LEISURE_STADIUM" zoomLevel="3" bodyHex="F0F0D8" isArea="yes"/>
+        </leisure>
+        <amenity>
+            <element type="AMENITY_PARKING" zoomLevel="1" bodyHex="EEE8AA" isArea="yes"/>
+            <element type="AMENITY_SCHOOL" zoomLevel="1" bodyHex="F0F0D8" isArea="yes"/>
+            <element type="AMENITY_BICYCLE_PARKING" zoomLevel="1" bodyHex="EEE8AA" isArea="yes"/>
+        </amenity>
+        <tourism>
+            <element type="TOURISM_PICNIC_SITE" zoomLevel="1" bodyHex="90EE90" isArea="yes"/>
+        </tourism>
+        <nature>
+            <element type="NATURAL_WATER" zoomLevel="5" bodyHex="B4D0D0" isArea="yes"/>
+            <element type="NATURAL_BEACH" zoomLevel="3" bodyHex="FCEEB8" isArea="yes"/>
+            <element type="NATURAL_SAND" zoomLevel="3" bodyHex="F5E9C6" isArea="yes"/>
+            <element type="NATURAL_COASTLINE" zoomLevel="8"  bodyHex="E0E0E0" isArea="yes"/>
+            <element type="NATURAL_TREE_ROW" zoomLevel="6" bodyHex="9DCA8A" lineType="round" lineWeight="20"/>
+            <element type="NATURAL_WOOD" zoomLevel="6" bodyHex="9DCA8A" isArea="yes"/>
+            <element type="WATER" bodyHex="B4D0D0"/>
+        </nature>
+        <barrier>
+            <element type="BARRIER_FENCE" zoomLevel="2" bodyHex="6E6E6E" lineType="round"/>
+            <element type="BARRIER_HEDGE" zoomLevel="2" bodyHex="7EC877" lineType="round"/>
+            <element type="BARRIER_HEDGE_AREA" zoomLevel="2" bodyHex="7EC877" isArea="yes"/>
+        </barrier>
+        <waterway>
+            <element type="WATERWAY_STREAM" zoomLevel="5" bodyHex="B4D0D0" lineType="round" lineWeight="60"/>
+        </waterway>
+    </standard>
+
+    <specific>
+        <transportation>
+            <element type="HIGHWAY_BUS_STOP" zoomLevel="1" icon="bus_stop"/>
+            <element type="RAILWAY_STATION" zoomLevel="1" icon="train"/>
+            <element type="AEROWAY_AERODROME" zoomLevel="1" icon="airport"/>
+        </transportation>
+    </specific>
+</mapDrawStyle>

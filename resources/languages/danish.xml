@@ -1,0 +1,94 @@
+<?xml version="1.0" ?>
+<strings lang="Dansk">
+
+        <string id="direction-turn-left" string="dreje til venstre"/>
+        <string id="direction-turn-right" string="dreje til højre"/>
+        <string id="direction-straight" string="fortsætte lige ud"/>
+        <string id="direction-uturn" string="foretage en uvending"/>
+        <string id="direction-dest-on-left" string="være opmærksom på at destinationen er på venstre side"/>
+        <string id="direction-dest-on-right" string="være opmærksom på at destinationen er på højre side"/>
+        <string id="direction-dest-in-front" string="være opmærksom på at destiantionen er ved enden af vejen"/>
+        <string id="direction-sharp-left" string="dreje skarpt til venstre"/>
+        <string id="direction-sharp-right" string="dreje skarpt til højre"/>
+        <string id="direction-slight-left" string="dreje blødt til venstre"/>
+        <string id="direction-slight-right" string="dreje blødt til højre"/>
+        <string id="direction-right-at-end" string="dreje til venstre for enden af vejen"/>
+        <string id="direction-left-at-end" string="dreje til højre for enden af vejen"/>
+        <string id="direction-ramp-left" string="køre af i venstre side"/>
+        <string id="direction-ramp-right" string="køre af i højre side"/>
+        <string id="direction-roundabout-sharp-right" string="Tag første afkørsel i rundkørselen"/>
+        <string id="direction-roundabout-right" string="Drej til højre i rundkørslen"/>
+        <string id="direction-roundabout-light-right" string="Drej til blødt til højre i rundkørslen"/>
+        <string id="direction-roundabout-sharp-left" string="tag den sidste afkørsel i rundkørslen"/>
+        <string id="direction-roundabout-left" string="drej til venstre i rundkørslen"/>
+        <string id="direction-roundabout-light-left" string="Drej blød til venstre i rundkørslen"/>
+        <string id="direction-roundabout-straight" string="Kør ligeud i rundkørslen"/>
+
+        <string id="direction-distance" string="Afstanden er"/>
+        <string id="direction-time" string="og det tager"/>
+        <string id="direction-in" string="om"/>
+
+        <string id="load" string="Åben"/>
+        <string id="save" string="Gem"/>
+        <string id="zoom-in" string="Zoom ind"/>
+        <string id="zoom-out" string="Zoom ud"/>
+        <string id="print" string="Print"/>
+        <string id="file" string="Fil"/>
+        <string id="edit" string="Redigere"/>
+        <string id="language" string="Sprog"/>
+
+
+        <string id="search" string="Søg"/>
+        <string id="to" string="Til"/>
+        <string id="from" string="Fra"/>
+        <string id="walk" string="Gå"/>
+        <string id="car" string="Bil"/>
+        <string id="bike" string="Cykel"/>
+        <string id="address-not-valid" string="En addresse er ikke gyldig"/>
+
+        <string id="error" string="Fejl!"/>
+        <string id="load-io-exception" string="Der var en fejl med at indlæse filen. Prøv igen."/>
+        <string id="load-file-extension-not-supported-exception" string="Den valgte fil er ikke understøttet."/>
+        <string id="load-sax-exception" string="Det valgte kort er ikke overholder ikke XML-standarden og kan ikke indlæses."/>
+        <string id="load-class-not-found-exception" string="Den valgte bin-fil er muligvis beskadiget eller stammer ikke fra dette program."/>
+        <string id="wait-whilst-saving" string="Vent venligt mens kortet gemmes"/>
+
+        <string id="loading-to-buffer" string="Kort indlæses til buffer, vent venligst"/>
+        <string id="parsing" string="Parsing: "/>
+        <string id="estimated-time" string="Estimeret tid tilbage: "/>
+        <string id="minutes" string=" minutter"/>
+
+        <string id="add-poi" string="Tilføj point of interest"/>
+        <string id="change-poi-name" string="Ændr navn"/>
+        <string id="change-poi-color" string="Ændr farve"/>
+        <string id="delete-poi" string="Slet"/>
+        <string id="save-as-poi" string="Gem som point of interest"/>
+        <string id="select-name-for-poi" string="Vælg navn til point of interest"/>
+        <string id="poi" string="Point of Interest"/>
+        <string id="select-color-for-poi" string="Vælg farve til point of interest"/>
+        <string id="new-poi" string="Ny point of interest"/>
+        <string id="route-from-poi" string="Rutevejledning fra her"/>
+        <string id="route-to-poi" string="Rutevejledning til her"/>
+        <string id="unknown-road" string="Unavngivet vej"/>
+
+        <string id="read-map" string="Indlæs nyt kort" />
+        <string id="read-dk" string="Indlæs Danmark" />
+
+        <string id="meter" string="meter"/>
+        <string id="kilometer" string="kilometer"/>
+
+        <string id="in" string="Om"/>
+        <string id="making-turn" string=" skal du"/>
+        <string id="of" string=" af " />
+        <string id="need-to-drive" string="Du skal køre "/>
+        <string id="dist-and-take" string=" km og vil tage "/>
+        <string id="error" string="Fejl!"/>
+        <string id="save-error" string="Der var en fejl med at gemme filen. Prøv igen."/>
+
+        <string id="supported-file-extensions" string="Understøttet Filtyper"> </string>
+        <string id="exception-not-found-point-departure" string="Vi kunne desværre ikke finde et punkt i nærheden af afgangsmarkøren at rejse fra med de valgte indstillinger. Prøv at flytte afgangsmarkøren tættere på en vej eller vælge nogle andre indstillinger."/>
+        <string id="exception-not-found-point-destination" string="Vi kunne desværre ikke finde et punkt i nærheden af destinationsmarkøren at rejse fra med de valgte indstillinger. Prøv at flytte destinationsmarkøren tættere på en vej eller vælge nogle andre indstillinger."/>
+        <string id="exception-no-route-calc" string="Vi kunne desværre ikke ikke beregne en rute. Prøv eventuelt nogle andre indstillinger og prøv igen."/>
+        <string id="exception-no-route" string="Det er ikke muligt at lave en rute mellem adresserne med de valgte indstillinger"/>
+
+</strings>

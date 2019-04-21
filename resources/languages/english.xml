@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<strings lang="English">
+
+    <string id="direction-turn-left" string="turn left"/>
+    <string id="direction-turn-right" string="turn right"/>
+    <string id="direction-straight" string="go straight"/>
+    <string id="direction-uturn" string="make a uturn"/>
+    <string id="direction-dest-on-left" string="destination on left"/>
+    <string id="direction-dest-on-right" string="destination on right"/>
+    <string id="direction-dest-in-front" string="destination at end of road"/>
+    <string id="direction-sharp-left" string="make a sharp left turn"/>
+    <string id="direction-sharp-right" string="make a sharp right turn"/>
+    <string id="direction-slight-left" string="make a slight left turn"/>
+    <string id="direction-slight-right" string="make a slight right turn"/>
+    <string id="direction-right-at-end" string="make a right turn at end of road"/>
+    <string id="direction-left-at-end" string="make a left turn at end of road"/>
+    <string id="direction-ramp-left" string="take the ramp to left"/>
+    <string id="direction-ramp-right" string="take the ramp to right"/>
+    <string id="direction-roundabout-sharp-right" string="take the first exit from roundabout"/>
+    <string id="direction-roundabout-right" string="take the right exit from rounabout"/>
+    <string id="direction-roundabout-light-right" string="make a light right on the roundabout"/>
+    <string id="direction-roundabout-sharp-left" string="make a sharp left on the roundabout"/>
+    <string id="direction-roundabout-left" string="make a left on the roundabout"/>
+    <string id="direction-roundabout-light-left" string="make a slight left on the roundabout"/>
+    <string id="direction-roundabout-straight" string="go straight on the roundabout"/>
+
+    <string id="direction-distance" string="Distance is"/>
+    <string id="direction-time" string="it takes"/>
+    <string id="direction-in" string="in"/>
+
+    <string id="load" string="Open"/>
+    <string id="save" string="Save"/>
+    <string id="zoom-in" string="Zoom in"/>
+    <string id="zoom-out" string="Zoom out"/>
+    <string id="print" string="Print"/>
+    <string id="file" string="File"/>
+    <string id="edit" string="Edit"/>
+    <string id="language" string="Language"/>
+
+
+    <string id="search" string="Search"/>
+    <string id="to" string="To"/>
+    <string id="from" string="From"/>
+    <string id="walk" string="Walk"/>
+    <string id="car" string="Car"/>
+    <string id="bike" string="Bike"/>
+    <string id="address-not-valid" string="Not a valid address"/>
+    <string id="error" string="Error!"/>
+    <string id="load-io-exception" string="Problem loading the file. Try again!"/>
+    <string id="load-file-extension-not-supported-exception" string="This extension is not supported"/>
+    <string id="load-sax-exception" string="This map does not fulfill the XML requirements"/>
+    <string id="load-class-not-found-exception" string="This bin-file is either damaged or is not using the newest version. Try loading OSM file."/>
+    <string id="wait-whilst-saving" string="Wait, whilst the map is saving!"/>
+
+    <string id="loading-to-buffer" string="Map is being loaded to buffer! Please Wait!"/>
+    <string id="parsing" string="Parsing: "/>
+    <string id="estimated-time" string="Estimated time left: "/>
+    <string id="minutes" string=" minutes"/>
+
+    <string id="add-poi" string="Add Point of Interest"/>
+    <string id="change-poi-name" string="Change name"/>
+    <string id="change-poi-color" string="Change color"/>
+    <string id="delete-poi" string="Delete"/>
+    <string id="save-as-poi" string="Save as Point of Interest"/>
+    <string id="select-name-for-poi" string="Chose name for point of interest"/>
+    <string id="poi" string="Point of Interest"/>
+    <string id="select-color-for-poi" string="Chose color for point of interest"/>
+    <string id="new-poi" string="New Point of Interest"/>
+    <string id="route-from-poi" string="Route from this point"/>
+    <string id="route-to-poi" string="Route to this point"/>
+    <string id="unknown-road" string="Unnamed road"/>
+
+    <string id="read-map" string="Read map" />
+    <string id="read-dk" string="Read Danmark" />
+
+    <string id="meter" string="meters"/>
+    <string id="kilometer" string="kilometers"/>
+
+    <string id="in" string="in"/>
+    <string id="of" string=" of "/>
+    <string id="making-turn" string=" need to"/>
+    <string id="need-to-drive" string="Need to drive "/>
+    <string id="dist-and-take" string=" km and will take "/>
+    <string id="save-error" string="Something went wrong whilst saving the file. Please try again."/>
+
+    <string id="supported-file-extensions" string="Supported extensions"/>
+    <string id="exception-not-found-point-departure" string="It was not possible to find a point close to departure marker. Try moving departure marker to other position!"/>
+    <string id="exception-not-found-point-destination" string="It was not possible to find a point close to a destination marker. Try moving destination marker to other position"/>
+    <string id="exception-no-route-calc" string="It was not possible to calculate a rout. Try with other options!"/>
+    <string id="exception-no-route" string="It was not possible to create a route with the given addresses and options. Please try other addresses or options!"/>
+
+</strings>
